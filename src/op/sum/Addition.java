@@ -1,4 +1,4 @@
-package op;
+package op.sum;
 
 public class Addition {
     public int number1;

@@ -1,4 +1,4 @@
-package op;
+package op.personelData;
 
 public class Person_data {
   public String name;

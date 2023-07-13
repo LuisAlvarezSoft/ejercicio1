@@ -1,4 +1,4 @@
-package op;
+package op.division;
 
 public class Division {
     public int number1;

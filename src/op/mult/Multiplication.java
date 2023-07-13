@@ -1,4 +1,4 @@
-package op;
+package op.mult;
 
 public class Multiplication {
     public int number1;
