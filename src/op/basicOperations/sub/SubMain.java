@@ -1,4 +1,4 @@
-package op.sub;
+package op.basicOperations.sub;
 
 public class SubMain {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package op.division;
+package op.basicOperations.division;
 
 public class DivMain {
     public static void main(String[] args) {

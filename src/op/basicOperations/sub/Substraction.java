@@ -1,4 +1,4 @@
-package op.sub;
+package op.basicOperations.sub;
 
 public class Substraction {
     public int number1;
